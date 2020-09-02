@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/.github.io/ToDoReactApp/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/.github.io/ToDoReactApp/static/js/main.9133b4af.chunk.js",
+    "main.js.map": "/.github.io/ToDoReactApp/static/js/main.9133b4af.chunk.js.map",
+    "runtime-main.js": "/.github.io/ToDoReactApp/static/js/runtime-main.4991e628.js",
+    "runtime-main.js.map": "/.github.io/ToDoReactApp/static/js/runtime-main.4991e628.js.map",
+    "static/js/2.e7a27fc6.chunk.js": "/.github.io/ToDoReactApp/static/js/2.e7a27fc6.chunk.js",
+    "static/js/2.e7a27fc6.chunk.js.map": "/.github.io/ToDoReactApp/static/js/2.e7a27fc6.chunk.js.map",
+    "index.html": "/.github.io/ToDoReactApp/index.html",
+    "precache-manifest.06aa53dca69c8c1e2eff33a48ed410bc.js": "/.github.io/ToDoReactApp/precache-manifest.06aa53dca69c8c1e2eff33a48ed410bc.js",
+    "service-worker.js": "/.github.io/ToDoReactApp/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/.github.io/ToDoReactApp/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.e7a27fc6.chunk.js.LICENSE.txt": "/.github.io/ToDoReactApp/static/js/2.e7a27fc6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4991e628.js",
+    "static/js/2.e7a27fc6.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.9133b4af.chunk.js"
+  ]
+}
